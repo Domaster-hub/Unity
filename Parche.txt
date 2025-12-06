@@ -1,3 +1,1 @@
 print("hola")
-El éxito no es un destino, 
-es un viaje, disfrútalo"
